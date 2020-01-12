@@ -1,2 +1,2 @@
 # react-tutorial
-a react tutorial for education
+A react tutorial for education
